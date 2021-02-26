@@ -12,9 +12,9 @@
 <p align="center">
   <h2 align="center">Spotify Logger</h2>
   <p align="center">
-    <a href="https://github.com/RobertFrig/Spotify-Logger/issues">Report Bug</a>
+    <a href="https://github.com/RobertFrig/Vinyl-Visualizer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RobertFrig/Spotify-Logger/issues">Request Feature</a>
+    <a href="https://github.com/RobertFrig/Vinyl-Visualizer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -76,7 +76,7 @@ Uage
 
 Robert Frigerio - [@RobertFrigerio](https://twitter.com/RobertFrigerio) - robertfrigerio@gmail.com
 
-Project Link: [https://github.com/RobertFrig/Spotify-Logger](https://github.com/RobertFrig/Spotify-Logger)
+Project Link: [https://github.com/RobertFrig/Vinyl-Visualizer](https://github.com/RobertFrig/Vinyl-Visualizer)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -87,12 +87,12 @@ Project Link: [https://github.com/RobertFrig/Spotify-Logger](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-url]: https://github.com/RobertFrig/Spotify-Logger/graphs/contributors
+[contributors-url]: https://github.com/RobertFrig/Vinyl-Visualizer/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/RobertFrig/Spotify-Logger/network/members
+[forks-url]: https://github.com/RobertFrig/Vinyl-Visualizer/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/RobertFrig/Spotify-Logger/stargazers
+[stars-url]: https://github.com/RobertFrig/Vinyl-Visualizer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/RobertFrig/Spotify-Logger/issues
+[issues-url]: https://github.com/RobertFrig/Vinyl-Visualizer/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/robert-frigerio
