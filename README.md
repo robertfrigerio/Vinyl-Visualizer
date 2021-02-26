@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h2 align="center">Spotify Logger</h2>
+  <h2 align="center">Vinyl Visualizer</h2>
   <p align="center">
     <a href="https://github.com/RobertFrig/Vinyl-Visualizer/issues">Report Bug</a>
     ·
@@ -74,7 +74,7 @@ Uage
 
 ## Contact
 
-Robert Frigerio - [@RobertFrigerio](https://twitter.com/RobertFrigerio) - robertfrigerio@gmail.com
+Robert Frigerio - [@Robert_Frigerio](https://twitter.com/Robert_Frigerio) - robertfrigerio@gmail.com
 
 Project Link: [https://github.com/RobertFrig/Vinyl-Visualizer](https://github.com/RobertFrig/Vinyl-Visualizer)
 
